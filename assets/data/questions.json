@@ -1,0 +1,96 @@
+{
+  "Questions": {
+    "JAVA": [
+      {
+        "number": "1",
+        "text": "What could you tell us about “Object Oriented Programming”? Define the concepts of Encapsulation, Inheritance, and Polymorphism.\n",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "2",
+        "text": "Define the concepts of Class and Object.",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "3",
+        "text": "What is the difference between JRE and JDK?",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "3",
+        "text": "What does it mean that a class is final?",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "4",
+        "text": "Does Java support multiple inheritances?",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "5",
+        "text": "What is the difference between Runtime Exceptions and Checked Exception?",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      }
+    ],
+    "AngularJS": [
+      {
+        "number": "1",
+        "text": "List at least three ways to communicate between modules of your application using core AngularJS functionality.\n",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "2",
+        "text": "Which means of communication between modules of your application are easily testable?.",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "3",
+        "text": "When a scope is terminated, two similar “destroy” events are fired. What are they used for, and why are there two?",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "3",
+        "text": "List a few ways to improve performance in an AngularJS app.",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      },
+      {
+        "number": "4",
+        "text": "What are the DOM and the BOM?",
+        "extra": {
+          "video": "?",
+          "img": "?"
+        }
+      }
+    ]
+  }
+}

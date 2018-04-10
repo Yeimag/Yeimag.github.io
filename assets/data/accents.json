@@ -1,0 +1,39 @@
+{
+  "Accents": {
+    "English (United States)": [
+      {
+        "text": "en-US",
+        "voice": "ZiraRUS"
+      }
+
+    ],
+    "English (Canada)": [
+      {
+        "text": "en-CA",
+        "voice": "Linda"
+      }
+
+    ],
+    "English (United Kingdom)": [
+      {
+        "text": "en-GB",
+        "voice": "HazelRUS"
+      }
+
+    ],
+    "English (India)": [
+      {
+        "text": "en-IN",
+        "voice": "Heera, Apollo"
+      }
+
+    ],
+    "English (Australia)": [
+      {
+        "text": "en-AU",
+        "voice": "HayleyRUS"
+      }
+
+    ]
+  }
+}
