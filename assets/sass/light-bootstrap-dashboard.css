@@ -194,7 +194,8 @@ input:focus {
   color: #fff;
   font-weight: 200;
   background-size: cover;
-  background-position: center center; }
+  background-position: center center;
+}
   .sidebar .sidebar-wrapper,
   .bootstrap-navbar .sidebar-wrapper {
     position: relative;
@@ -203,6 +204,7 @@ input:focus {
     overflow: auto;
     width: 260px;
     z-index: 4;
+    background-color: #252959;
     padding-bottom: 75px; }
     .sidebar .sidebar-wrapper .dropdown .dropdown-backdrop,
     .bootstrap-navbar .sidebar-wrapper .dropdown .dropdown-backdrop {
@@ -217,7 +219,8 @@ input:focus {
     top: 0;
     left: 0;
     background-size: cover;
-    background-position: center center; }
+    background-position: center center;
+    background-color: #252959;}
   .sidebar .logo,
   .bootstrap-navbar .logo {
     padding: 10px 15px;
@@ -369,13 +372,13 @@ input:focus {
     background: #000000; }
   .sidebar:after,
   .bootstrap-navbar:after {
-    background: #787878;
-    background: -moz-linear-gradient(top, #787878 0%, #343434 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #787878), color-stop(100%, #343434));
-    background: -webkit-linear-gradient(top, #787878 0%, #343434 100%);
-    background: -o-linear-gradient(top, #787878 0%, #343434 100%);
-    background: -ms-linear-gradient(top, #787878 0%, #343434 100%);
-    background: linear-gradient(to bottom, #787878 0%, #343434 100%);
+    background: #252959;
+    background: -moz-linear-gradient(top, #252959 0%, #252959 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #252959), color-stop(100%, #252959));
+    background: -webkit-linear-gradient(top, #252959 0%, #252959 100%);
+    background: -o-linear-gradient(top, #252959 0%, #252959 100%);
+    background: -ms-linear-gradient(top, #252959 0%, #252959 100%);
+    background: linear-gradient(to bottom, #252959 0%, #252959 100%);
     background-size: 150% 150%;
     z-index: 3;
     opacity: 1; }
@@ -385,13 +388,13 @@ input:focus {
     opacity: .77; }
   .sidebar[data-color="blue"]:after,
   .bootstrap-navbar[data-color="blue"]:after {
-    background: #1F77D0;
-    background: -moz-linear-gradient(top, #1F77D0 0%, #533ce1 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #1F77D0), color-stop(100%, #533ce1));
-    background: -webkit-linear-gradient(top, #1F77D0 0%, #533ce1 100%);
-    background: -o-linear-gradient(top, #1F77D0 0%, #533ce1 100%);
-    background: -ms-linear-gradient(top, #1F77D0 0%, #533ce1 100%);
-    background: linear-gradient(to bottom, #1F77D0 0%, #533ce1 100%);
+    background: #252959;
+    background: -moz-linear-gradient(top, #252959 0%, #252959 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #252959), color-stop(100%, #252959));
+    background: -webkit-linear-gradient(top, #252959 0%, #252959 100%);
+    background: -o-linear-gradient(top, #252959 0%, #252959 100%);
+    background: -ms-linear-gradient(top, #252959 0%, #252959 100%);
+    background: linear-gradient(to bottom, #252959 0%, #252959 100%);
     background-size: 150% 150%; }
   .sidebar[data-color="azure"]:after,
   .bootstrap-navbar[data-color="azure"]:after {
@@ -2417,7 +2420,7 @@ input:focus {
     left: auto;
     z-index: 1032;
     visibility: visible;
-    background-color: #999;
+    background-color: #252959;
     overflow-y: visible;
     border-top: none;
     text-align: left;
@@ -2446,7 +2449,7 @@ input:focus {
       height: 100%;
       width: 100%;
       position: absolute;
-      background-color: #282828;
+      background-color: #252959;
       display: block;
       content: "";
       z-index: 1; }

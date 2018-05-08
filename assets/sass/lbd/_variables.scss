@@ -9,7 +9,7 @@ $color-purple:          #9368E9;
 $color-red:             #FB404B;
 $color-green:           #87CB16;
 $color-orange:          #FFA534;
-$color-blue:            #447DF7;
+$color-blue:            #21254a;
 $color-black:           #5e5e5e;
 
 $none:                       0   !default;
@@ -37,7 +37,7 @@ $default-color:              #888888 !default;
 $default-bg:                 #888888 !default;
 $default-states-color:       #777777 !default;
 
-$primary-color:              #3472F7 !default;
+$primary-color:              #21254a !default;
 $primary-bg:                 #3472F7 !default;
 $primary-states-color:       #1D62F0 !default;
 
@@ -120,7 +120,7 @@ $font-size-large:              18px !default;
 $font-size-large-navbar:       20px !default;
 
 $font-size-h1:                 52px !default;
-$font-size-h2:                 36px !default;
+$font-size-h2:                 60px !default;
 $font-size-h3:                 28px !default;
 $font-size-h4:                 22px !default;
 $font-size-h5:                 16px !default;
@@ -205,8 +205,8 @@ $width-icon-message-sm:			 20px;
 $default-color-top:	#d9d9d9 !default;
 $default-color-bottom: #909297 !default;
 
-$blue-color-top: 		            #4087ea;
-$blue-color-bottom: 	            #533ce1;
+$blue-color-top: 		            #21254a;
+$blue-color-bottom: 	            #21254a;
 
 $azure-color-top:   	            #45c0fd;
 $azure-color-bottom:            	#4091ff;
@@ -250,12 +250,12 @@ $filter-orange:       darken($warning-color, 10%);
 $filter-red:          darken($danger-color, 10%);
 
 
-$new-blue:            #1DC7EA;
+$new-blue:            #21254a;
 $new-purple:          #9368E9;
 $new-red:             #FB404B;
 $new-green:           #87CB16;
 $new-orange:          #FFA534;
-$new-dark-blue:       #1F77D0;
+$new-dark-blue:       #21254a;
 $new-black:           #5e5e5e;
 
 
